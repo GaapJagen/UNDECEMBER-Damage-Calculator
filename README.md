@@ -49,6 +49,19 @@ Run `UNDECEMBER Damage Calculator RU.exe`.
 
 ------------------------------------------------------------------------
 
+Antivirus Warning
+
+Some antivirus software may warn about the .exe files included in the releases.
+
+This can happen because the calculator is distributed as a PyInstaller-packed executable. PyInstaller bundles the Python interpreter and the application's code into an executable, and the resulting file is not digitally signed. Some antivirus and security products can therefore classify a new or relatively unknown executable as suspicious or potentially unwanted.
+
+This warning does not mean that the calculator intentionally contains a virus or malware.
+
+The executable is built directly from the Python source code in this repository. Anyone concerned about the warning can inspect the source code and build the executable themselves.
+
+
+------------------------------------------------------------------------
+
 ## Features
 
 ### Damage calculator
