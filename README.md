@@ -41,19 +41,11 @@ The goal is ultimately to understand how the game's damage calculation actually 
 
 ### English Version
 
-Requires Python 3.x.
-
-```bash
-python ENG.py
-```
+Run `UNDECEMBER Damage Calculator ENG.exe`.
 
 ### Russian Version
 
-Requires Python 3.x.
-
-```bash
-python RU.py
-```
+Run `UNDECEMBER Damage Calculator RU.exe`.
 
 ------------------------------------------------------------------------
 
