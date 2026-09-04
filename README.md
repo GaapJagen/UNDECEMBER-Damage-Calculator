@@ -21,6 +21,7 @@ The calculation pipeline is therefore split into stages:
 The application also contains a playable Zodiac/Constellation view and
 an interactive constellation-node editor.
 
+------------------------------------------------------------------------
 
 ## Project Status
 
@@ -30,19 +31,29 @@ There are still many things about UNDECEMBER's damage calculations that need to 
 
 **I give full permission to use my work as a basis for further research, testing, modification, and development of the damage calculator.**
 
-You are free to:
-- study and analyze the existing formulas and implementation;
-- use my test results and findings;
-- modify and improve the calculator;
-- continue reverse-engineering UNDECEMBER's damage mechanics;
-- use the code as a foundation for a new or different calculator;
-- share and publish further findings based on this work.
+You are free to study, modify, improve, and continue developing this project and its findings.
 
 If you can figure out formulas that I couldn't, correct something I got wrong, or take the calculator further than I did, **please do it**.
 
 The goal is ultimately to understand how the game's damage calculation actually works, and I am happy for this project to be used by anyone who wants to continue that work.
 
-------------------------------------------------------------------------
+## How to Run
+
+### English Version
+
+Requires Python 3.x.
+
+```bash
+python ENG.py
+```
+
+### Russian Version
+
+Requires Python 3.x.
+
+```bash
+python RU.py
+```
 
 ------------------------------------------------------------------------
 
